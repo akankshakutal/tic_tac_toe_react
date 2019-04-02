@@ -2,7 +2,7 @@
   "name": "tic_tac_toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akankshakutal.github.io/calculator_react/",
+  "homepage": "https://akankshakutal.github.io/tic_tac_toe_react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
